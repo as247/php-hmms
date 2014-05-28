@@ -1,0 +1,87 @@
+bán/T laptop/N cũ/N giá/P rẻ/P mới/L 98-99%/L nguyên/L zin/L
+bán/T nhiều laptop/N giá/P rẻ/P từ 2,5tr/P 8,5tr/P bh/L lâu/L
+bán/T laptop/N dell/N d530/M màn/L hình/L 15/L inch/L
+bán/T laptop/N asus/N i3/C 3110/C
+bán/T laptop/N nhật/L centrino/C giá/P rẻ/P nhất/P hcm/P
+cần bán/T 10 con laptop/N hiệu nec/N giá/P chỉ 1,25/P t/P
+bán/T lenovo/N thinkpad/N x131e/M 11.6/V inch/V 2g/R 500g/D wc hd
+bán/T sony/N vaio/N nr430e/M 15/V inch/V core/C 2/C duo/C màu/L hồng/L
+bán/T lenovo/N edge/M 15.6/L inch/L core/C 3/C hdd 750g/D hdmi/V
+bán/T ultrabook/N t430u/M card/V rời/V nvidia/V gt 620/V 1g/V
+bán/T dell/N latitude/N e6440/M core/C i5/C haswell/C ssd/D 128/D ram 2g/R giá/P 9.5tr/P
+bán/T apple/N imac/M 24/V inch/V aluminum/L mb418zp_a intel/C core/C 2/C duo/C 2.66ghz/C 4gb/R ram 640gb/D hdd, vga nvidia/V geforce/V 9400m/V
+bán/T x1/N cacbon/N core/C i7/C ivy/C 3667/C 2.0/C ram 8g/R ssd 180/D
+bán/T gateway/N core2/C t6400/C 2g/R 320g/D giá/P rẻ/P 3.4/P tr/P
+bán/T dell/N 2420m/M core/C i5/C ivy/C 3230m/C 4g/R 500g/D giá/P rẻ/P
+bán/T hp/N dv6/M core/C i3/C 330m/C 2g/R 500g/D giá/P rẻ/P
+bán/T acer/N one/M 10/V inh/V n570/M 1g/R 320g/D giá/P rẻ/P 3.1/P tr/P
+bán/T dell/N inspiron/N 7000/N series/M 7537/M 4200u/C cảm/L ứng/L
+bán/T 2 lenovo/N thinkpad/N t500/M p8600/C 2g/R 320g/D
+bán/T adapter/N lenovo/N hp/N dell/N 65w 90w
+bán/T phụ kiện laptop/N giá/P siêu/P rẻ/P siêu bền
+bán/T lenovo/N thinkpad/N t410/M
+bán/T asus/N t100ta/M dk005h/M
+bán/T dell/N e6410/M i5/C 520m/C dell/N latitude/N e6410/M giá/P 7/P tr/P
+bán/T asus/N x550lb/M xx010d/M
+bán/T laptop/N lenovo/N r400/M t5870/C 2gb/R 120gb/D giá/P rẻ/P
+bán/T laptop/N lenovo/N g460/M core/C i3/C máy xài/L kỹ/L giá/P sv/P
+cần bán/T laptop/N core/C 2/C p8700/C máy đẹp/L long/L lanh/L
+bán/T laptop/N t60/M t2400/C 1gb/R 120gb/D giá/P rẻ/P
+bán/T laptop/N hp/N pavilion/M dv4/M core/C 2/C p8700/C ram 4g/R
+bán/T laptop/N hp/N g62/M core/C i3/C ram 2g/R hdd 320/D
+cân ban/T lap/N top/N 7/L in/L hieu lifettouch/N 600vnd/P
+bán/T laptop/N sony/N vaio/N svs/M 13/C core/C i5/C ivy/C thế/C hệ/C 3/C
+bán/T laptop/N acer/N 4630/M core/C 2/C giá/P 3tr8/P /P
+bán/T laptop/N hp/N compad/M cq40/C giá/P 3tr9/P bao/L main/L zin/L
+bán/T laptop/N asus/N x5dij/M core/C 2/C ram 2g/R giá/P 4tr5/P
+bán/T macbook/N pro/M mc700/M early 2011 core/C i5/C ram 4g/R
+thu mua/T laptop/N máy tính cũ/N giá/P cao/P 0902322123
+bán/T toshiba/N core/C i3/C thế/C hệ/C 2/C 4/C còn/L nguyên/L tem/L
+bán/T laptop/N asus/N core/C i-3110/C 4g/R
+bán/T hp/N probooks/M 4430s/M core/C i5/C 2450/C ram 4gb/R ổ 500gb/D vỏ/L nhôm/L giá 7.6/P triệu/P
+ban/T lennovo/N i5/C 640gb/D ram 2g/R
+bán/T thanh lý gấp laptop/N asus/N i3/C
+bán/T laptop/N samsung/N np/M r428/M core/C i3/C m330/C 4,5tr/P
+bán/T laptop/N samsung/N np-r428/M core/C i3-m330/C 4,5tr/P
+bán/T hp/N probook/M 4440s/M new/L 99,99%/L bh/L 10/L 2014/L
+bán/T laptop/N sonyvaio/N sz440/M màn/V 12inch/V nhỏ/L gọn/L giá rẻ/P 3,9tr/P
+bán/T laptop/N cũ fujitsu/N fmv/M a8280/M giá/P rẻ/P tại hà nội
+bán laptop ibm thinkpad r60 14 inch card intel
+bán sonyvaio core i5ram 4gbhdd 50015.6 đẹp long lanh giá 8t
+bán laptop dell n4050 i32330m,2g,320g,14 led còn mới giá rẻ 5,8tr
+bán laptop toshiba l310 t3200,1g,160g,14inch mỏng đẹp giá rẻ 2,99tr
+chuyên mua máy tính,laptop,ipad,iphone,thanh lý dàn gams net,giá cao nhất hà nội,mua...
+sinh viên bán nhanh acer v3 471.đẹp long lanh,giá rẻ
+cần bán macbook pro mc375 mid 2010 nguyên bản còn rất mới 
+bán tosiba satelltite l840 i5 3230 đẹp nhứ mới giá 8tr5 
+bán laptop t5670 250gb giá:4tr200
+bán laptop cũ fujitsu fmv a8280 giá rẻ tại hà nội 
+sinh viên bán nhanh acer v3 471.đẹp long lanh,giá rẻ 
+cần bán macbook pro mc375 mid 2010 nguyên bản.còn rất mới
+bán thanh lý asus x450cc.mới toang ,còn bảo hành giá đi nhanh
+bán tosiba satelltite l840 i5 3230 đẹp nhứ mới giá 8tr5
+cần bán samsung galaxy tab 2 10.1, p7500
+bán laptop acer i3 aspire 4739 chưa qua sửa chữa giá 3.5... 
+bán laptop hp probook 4430s core i3 còn mới 98 
+bán buôn laptop cũ số lượng lớn từ 2tr,3tr,4tr,5tr...10tr. số lượng 50... 
+bán dell i3 2310 đẹp long lanh 5t950 
+bán laptopk2k laptop, macbook, notebok, taplet i3 i5 i7 khủng, siêu...
+bán acer e1 571 core i3 3120 hình thức like new còn bảo... 
+bán dell vostro 3550, i5 vga mới 98, giá thanh lý 
+bán asus k45vd vx135 i3 2370m, vga rời gt610 2g mới
+bán vostro 3450 giá 6,5tr.có fix,mình là người dùng bán 
+cần bán lennovo g480
+bán asus k45a còn bh hãng asus 16 tháng, máy nguyên tem
+bán lenovo g460 i5 460m, ram 2g, ổ cứng 500g, nvidia gt310 1gb... 
+cần bán sony vaio vpcea2sgx i3 350m 2,26ghz, ram 4g, hdd 320g,...
+bán asus k55vm i5 3210, ram4g, ổ cứng 750g, nvidia gt630m 2g... 
+bán sony sve14118fxw i5 2450m, ram 4g, hdd 750g, hd 3000 đèn... 
+bán asus x45c i3 3110m, ram 2gb, 500gb, hd 4000 mới 99... 
+bán acer aspire e1 572g i3 thế hệ 4 haswell, ram 4g,...
+bán sony sve14132cvw i3 3120m, ram 2g, hdd 320g, hd 4000 trắng..
+bán laptop hp2540 corei5 giá rẻ có 5,6tr
+cần bán 50 case hp 7700 dell 2310,lenovo thinkpad cấu hình cao... 
+mua laptop cũ tại hà nội giá cao 0976 65 95 98...
+bán laptop cũ dell vostro 2420 core i3 3110m, ram 2gb ddr3, ổ 500gb giá rẻ 7tr3
+bán laptop cũ acer e1 471g core i5 3210m, cạc rời giá 8 triệu 5
+bán asus x550cc xx892d, i3 3217u 1.8ghz, 4gb ram, 500gb, gt 720m còn bh dài
